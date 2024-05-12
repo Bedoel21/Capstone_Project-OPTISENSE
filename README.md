@@ -5,4 +5,5 @@ Proyek Optisense Object Detector bertujuan untuk mengembangkan sistem mutakhir y
 
 ## Proposal Capstone Project
 
-Untuk informasi lebih lanjut tentang proyek ini, silakan lihat [Proposal Capstone Project](https://my.visme.co/view/w46z1j7o-opti-sense){target="_blank"}.
+Untuk informasi lebih lanjut tentang proyek ini, silakan lihat <a href="https://my.visme.co/view/w46z1j7o-opti-sense" target="_blank">Proposal Capstone Project</a>.
+
