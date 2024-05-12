@@ -12,3 +12,5 @@ For further information about this project, please see the [Proposal Capstone Pr
   - Alya Kusuma W (1217050008)
   - Ansyarullah (1217050019)
   - Desi Ainul Amelia (1217050034)
+
+ Additionally, you can watch the promotional video for this project [Comingsoon!!!!](https://www.instagram.com/reel/C6yW7p_xrjp/?igsh=ZnUwaHQ5azJsbGRp).
